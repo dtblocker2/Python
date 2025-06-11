@@ -1,0 +1,23 @@
+Q.1 Name scientist who combined electricity with magnetism?
+A. Micheal Faraday
+B. Albert Einstein
+C. Maxwell
+D. Heisenberg
+
+Q.2 What is a mole?
+A. 6.022 * 10^-23 atoms
+B. 6.022 * 10^-23 entities
+C. 6.022 * 10^23 atoms
+D. 6.022 * 10^23 entities
+
+Q.3 What is phylum of python?
+A. mammalia
+B. reptilia
+C. monera
+D. aves
+
+Q.4 Which is the most famous Austrian Painter?
+A. Egon Schiele
+B. Gustav Klimt
+C. Oakar Kokoschka
+D. There is another

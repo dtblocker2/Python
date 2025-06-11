@@ -1,0 +1,1 @@
+self.setWindowOpacity(0.5)

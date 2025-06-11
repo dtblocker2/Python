@@ -1,0 +1,5 @@
+So this file will be affected by the append.py, the python file will added text in next line due to \n command
+this text was not originally present in the file it was appended by the python program append.py
+this text was not originally present in the file it was appended by the python program append.py
+this text was not originally present in the file it was appended by the python program append.py
+this text was not originally present in the file it was appended by the python program append.py
